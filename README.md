@@ -19,7 +19,7 @@ Design and simulate a **longitudinal AEB controller** in MATLAB/Simulink that:
 
 ## Project Structure
 - `aeb_main.m` → Parameter file (vehicle dynamics, friction coefficients, thresholds).  
-- `aeb_sim.slx` → Simulink model implementing ego vehicle, target, collision risk assessment, and AEB control logic.  
+- `AEB_Sim.slx` → Simulink model implementing ego vehicle, target, collision risk assessment, and AEB control logic.  
 
 ## Key Features
 - **Collision detection and TTC-based risk estimation**  
